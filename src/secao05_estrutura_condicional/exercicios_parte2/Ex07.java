@@ -1,4 +1,4 @@
-package secao05_estrutura_condicional.exerciciosParte2;
+package secao05_estrutura_condicional.exercicios_parte2;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package secao04_estrutura_sequencial.exerciciosParte1;
+package secao04_estrutura_sequencial.exercicios_parte1;
 
 import java.util.Scanner;
 
