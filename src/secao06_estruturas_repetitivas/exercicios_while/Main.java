@@ -1,4 +1,4 @@
-package secao06_estruturas_repetitivas;
+package secao06_estruturas_repetitivas.exercicios_while;
 
 import java.util.Scanner;
 
