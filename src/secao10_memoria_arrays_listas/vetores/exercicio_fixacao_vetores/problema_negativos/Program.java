@@ -1,14 +1,15 @@
-package secao10_memoria_arrays_listas.exercicio_fixacao_vetores.problema_numeros_pares;
+package secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.problema_negativos;
 
 import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
     public static void main(String[] args) {
+
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        int n, qtdPares;
+        int n;
 
         System.out.print("Quantos números você vai digitar? ");
         n = sc.nextInt();
@@ -20,16 +21,13 @@ public class Program {
             vetor[i] = sc.nextInt();
         }
 
-        System.out.println("\nNUMEROS PARES:");
-        qtdPares = 0;
+        System.out.println("Números Negativos: ");
+
         for (int i = 0; i < n; i++) {
-            if (vetor[i] % 2 == 0) {
-                System.out.printf("%d ", vetor[i]);
-                qtdPares++;
+            if (vetor[i] < 0) {
+                System.out.printf("%d\n", vetor[i]);
             }
         }
-
-        System.out.printf("\n\nQuantidade de Pares = %d\n", qtdPares);
 
         sc.close();
     }

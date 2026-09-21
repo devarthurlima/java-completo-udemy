@@ -1,9 +1,9 @@
-package secao10_memoria_arrays_listas.exercicio_fixacao_vetores.problema_pensionato.application;
+package secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.problema_pensionato.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import secao10_memoria_arrays_listas.exercicio_fixacao_vetores.problema_pensionato.entities.Rent;
+import secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.problema_pensionato.entities.Rent;
 
 public class Program {
     /**

@@ -1,4 +1,4 @@
-package secao10_memoria_arrays_listas.exercicio_fixacao_vetores.problema_abaixo_da_media;
+package secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.problema_abaixo_da_media;
 
 import java.util.Locale;
 import java.util.Scanner;

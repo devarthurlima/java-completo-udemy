@@ -1,4 +1,4 @@
-package secao10_memoria_arrays_listas.exercicio_fixacao_vetores.problema_pensionato.entities;
+package secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.problema_pensionato.entities;
 
 public class Rent {
     private String name;

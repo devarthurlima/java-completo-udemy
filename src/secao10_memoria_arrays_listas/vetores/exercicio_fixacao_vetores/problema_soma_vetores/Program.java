@@ -1,4 +1,4 @@
-package secao10_memoria_arrays_listas.exercicio_fixacao_vetores.problema_soma_vetores;
+package secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.problema_soma_vetores;
 
 import java.util.Scanner;
 

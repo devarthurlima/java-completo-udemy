@@ -1,4 +1,4 @@
-package secao10_memoria_arrays_listas.exercicio_fixacao_vetores.Problema_maior_posicao;
+package secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.Problema_maior_posicao;
 
 import java.util.Locale;
 import java.util.Scanner;

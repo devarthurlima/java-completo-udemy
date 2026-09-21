@@ -1,4 +1,4 @@
-package secao10_memoria_arrays_listas.exercicio_fixacao_vetores.problema_aprovados;
+package secao10_memoria_arrays_listas.vetores.exercicio_fixacao_vetores.problema_aprovados;
 
 import java.util.Locale;
 import java.util.Scanner;
